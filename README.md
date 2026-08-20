@@ -4,9 +4,19 @@
 ---
 
 ## 🎧 Overview
-To achieve optimal acoustic clarity, field stabilization, and the intended multi-band performance, please apply the configuration using the dedicated equalizer software for your respective platform.
+# To achieve optimal acoustic clarity, field stabilization, and the intended multi-band performance, please apply the configuration using the dedicated equalizer software for your respective platform.
 
+ありとあらゆる分野で適用可能かと思います。
+例えば、スピ系でいけば降魔師や祓師（祓魔師）達、及びオカルト界隈にも、音楽を鳴らせば自己防衛用の音響システムとして発動出来ます。
+例えば、クラブ界隈のＤＪ達であればPC等を使うでしょう。Equalizer APOを使えばさらなる音響の拡張機能を提供出来ます。
+androidユーザーであれば、PowerAMP Equalizer使えばスマホ単体で最高の音響で鳴らす事も出来ます。Bluetooth Speakerあればなお良し。
 ---
+I believe it can be applied in all manner of fields.
+For example, in the spiritual realm, it could be used by exorcists and purifiers (demon-banishers), as well as within the occult community; simply playing music would activate it as a self-defence sound system.
+For instance, DJs in the club scene would likely use a PC or similar device. Using Equalizer APO can provide further sound enhancement capabilities.
+For Android users, using the PowerAMP Equaliser allows you to play music with the best possible sound quality using just your smartphone. It’s even better if you have a Bluetooth speaker.
+# Virtual-Resolution presents by TORUNESHIO
+
 
 ## ⚙️ Setup Instructions
 
