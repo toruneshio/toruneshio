@@ -1,21 +1,20 @@
 Device: all
 Stage: post-mix
 Preamp: -6 dB
+Filter: ON PK Fc 40 Hz Gain -2.5 dB Q 0.6 Release 40 ms
+Filter: ON PK Fc 80 Hz Gain -2.5 dB Q 0.6 Release 20 ms
+Filter: ON PK Fc 174 Hz Gain -2.0 dB Q 1
+Filter: ON PK Fc 285 Hz Gain -5.0 dB Q 1
 Filter: ON PK Fc 432 Hz Gain 0 dB Q 6.0
 Filter: ON PK Fc 440 Hz Gain 0 dB Q 6.0 Release 20 ms
 Filter: ON PK Fc 500 Hz Gain -1.0 dB Q 0.75
 Filter: ON PK Fc 870 Hz Gain 3.5 dB Q 3.5
-Filter: ON PK Fc 2858.4 Hz Gain 2.5 dB Q 1.2
-Filter: ON PK Fc 40 Hz Gain -2.5 dB Q 1 Release 40 ms
-Filter: ON PK Fc 80 Hz Gain -2.5 dB Q 1 Release 20 ms
-Filter: ON PK Fc 174 Hz Gain -2.0 dB Q 1
-Filter: ON PK Fc 285 Hz Gain -5.0 dB Q 1
-Filter: ON PK Fc 527 Hz Gain -5.0 dB Q 1
 Filter: ON PK Fc 1286 Hz Gain -3.0 dB Q 1
 Filter: ON PK Fc 1924 Hz Gain -3.0 dB Q 1
+Filter: ON PK Fc 2858.4 Hz Gain 2.5 dB Q 1.2
 Filter: ON PK Fc 4021 Hz Gain 2 dB Q 1
 Filter: ON PK Fc 7817 Hz Gain -1.0 dB Q 1
-Filter: ON PK Fc 12021 Hz Gain -1.0 dB Q 1
+Filter: ON PK Fc 12021 Hz Gain 0 dB Q 1
 GraphicEQ: 18.5 0; 20.5 0; 51 0; 64 0; 99 0; 113 0; 125 0; 137 0; 380 0; 999 0; 1281 1.0; 2413 1.5; 3303.8 2.0; 5555 2.5; 7205 2.5; 8888 2.0; 11111 1.5; 14410 1.5; 16384 1.5; 17776 1.5; 21040 1.0
 Filter: Compressor Threshold -18.00 dB Ratio 5.00 Gain 0.00 dB Attack 10.00 ms Release 50.00 ms Knee 4.00 dB Detection Peak
 #Virtual-Resolution presents by TORUNESHIO
